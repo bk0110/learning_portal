@@ -1,0 +1,19 @@
+{
+  "name": "learning_portal",
+  "version": "1.0.0",
+  "description": "education",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "website"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-session": "^1.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
